@@ -79,18 +79,18 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/djs/archive/master.zip"
         },
         {
+            "id": "Evolve-Evo",
+            "last_update": 1643628629000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/archive/master.zip"
+        },
+        {
             "id": "vr25.fbind",
-            "last_update": 1643482977000,
+            "last_update": 1643630949000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
-        },
-        {
-            "id": "Font-Evolve-Sans",
-            "last_update": 1643482758000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Font-Evolve-Sans/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Font-Evolve-Sans/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Font-Evolve-Sans/archive/master.zip"
         },
         {
             "id": "FOSSAPPS",
@@ -136,7 +136,7 @@
         },
         {
             "id": "KTSR",
-            "last_update": 1643339162000,
+            "last_update": 1643630990000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
@@ -234,7 +234,7 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1643482979000,
+            "last_update": 1643630878000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
