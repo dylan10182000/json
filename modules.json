@@ -86,6 +86,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
         },
         {
+            "id": "charch_dinit",
+            "last_update": 1645961281000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/archive/master.zip"
+        },
+        {
             "id": "charch_openrc",
             "last_update": 1641629601000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
@@ -273,6 +280,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/master.zip"
+        },
+        {
+            "id": "ToyBox-Ext",
+            "last_update": 1645961166000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
         },
         {
             "id": "ttf-twemoji",
