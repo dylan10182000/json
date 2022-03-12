@@ -73,7 +73,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1645914821000,
+            "last_update": 1647084635000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -157,14 +157,14 @@
         },
         {
             "id": "vr25.fbind",
-            "last_update": 1644430640000,
+            "last_update": 1647084975000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1646344575000,
+            "last_update": 1647085005000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/master.zip"
@@ -269,7 +269,7 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1646525962000,
+            "last_update": 1647084576000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
@@ -304,14 +304,14 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1644259044000,
+            "last_update": 1647084908000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/master.zip"
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1645961166000,
+            "last_update": 1647085084000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
@@ -346,7 +346,7 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1645061699000,
+            "last_update": 1647084926000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
