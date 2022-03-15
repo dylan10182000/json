@@ -73,7 +73,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1647307266000,
+            "last_update": 1647319300000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -220,7 +220,7 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1647307195000,
+            "last_update": 1647319270000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/master.zip"
@@ -255,14 +255,14 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1643466045000,
+            "last_update": 1647319387000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
             "id": "microg_installer",
-            "last_update": 1644688533000,
+            "last_update": 1647319359000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
@@ -318,7 +318,7 @@
         },
         {
             "id": "ttf-twemoji",
-            "last_update": 1644446896000,
+            "last_update": 1647319307000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/master.zip"
