@@ -9,6 +9,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/archive/master.zip"
         },
         {
+            "id": "1_MARS_SOM_BASE-GEAR_FIRST",
+            "last_update": 1643646074000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/archive/master.zip"
+        },
+        {
             "id": "2_MARS_SOM_OVERLAY-GEAR_SECOND",
             "last_update": 1643646135000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/master/README.md",
@@ -65,6 +72,20 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/archive/master.zip"
         },
         {
+            "id": "BuiltIn-BusyBox",
+            "last_update": 1649213255000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
+        },
+        {
+            "id": "charch",
+            "last_update": 1649100331000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
+        },
+        {
             "id": "charch_dinit",
             "last_update": 1647481989000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
@@ -100,6 +121,27 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
         },
         {
+            "id": "cmdpatch",
+            "last_update": 1649147931000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
+        },
+        {
+            "id": "custom-certificate-authorities",
+            "last_update": 1648519965000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
+        },
+        {
+            "id": "Detach",
+            "last_update": 1647307311000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
+        },
+        {
             "id": "djs",
             "last_update": 1644611074000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/README.md",
@@ -119,6 +161,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/archive/master.zip"
+        },
+        {
+            "id": "vr25.fbind",
+            "last_update": 1647084975000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
         },
         {
             "id": "FOSSAPPS",
