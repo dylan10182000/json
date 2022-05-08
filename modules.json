@@ -24,7 +24,7 @@
         },
         {
             "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD",
-            "last_update": 1651745421000,
+            "last_update": 1651977288000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/archive/master.zip"
@@ -206,7 +206,7 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1651402632000,
+            "last_update": 1651980073000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
