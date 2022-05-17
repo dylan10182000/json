@@ -234,14 +234,14 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1652730554000,
+            "last_update": 1652747930000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/master.zip"
         },
         {
             "id": "lhroot",
-            "last_update": 1652646189000,
+            "last_update": 1652752537000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
