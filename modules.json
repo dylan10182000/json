@@ -275,6 +275,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/archive/master.zip"
         },
         {
+            "id": "magiskapp_freezer",
+            "last_update": 1653127328000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/archive/master.zip"
+        },
+        {
             "id": "magisk_overlayfs",
             "last_update": 1652597562000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
@@ -343,6 +350,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip"
+        },
+        {
+            "id": "SomcGameEnhancer-Upgrade",
+            "last_update": 1653127843000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/archive/master.zip"
         },
         {
             "id": "systemui-bootloop",
