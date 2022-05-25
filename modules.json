@@ -276,7 +276,7 @@
         },
         {
             "id": "magiskapp_freezer",
-            "last_update": 1653416005000,
+            "last_update": 1653505379000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/archive/master.zip"
@@ -367,7 +367,7 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1651963148000,
+            "last_update": 1653505410000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
