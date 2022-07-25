@@ -213,7 +213,7 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1658714216000,
+            "last_update": 1658770641000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
@@ -371,6 +371,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/master.zip"
+        },
+        {
+            "id": "ToyBox-Ext",
+            "last_update": 1658098784000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
         },
         {
             "id": "trichromelibrary-squoosh",
