@@ -73,14 +73,14 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1655881734000,
+            "last_update": 1659086698000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
         },
         {
             "id": "charch",
-            "last_update": 1658958981000,
+            "last_update": 1659090048000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
@@ -94,14 +94,14 @@
         },
         {
             "id": "charch_openrc",
-            "last_update": 1647482028000,
+            "last_update": 1659090048000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/archive/master.zip"
         },
         {
             "id": "charch_sshd",
-            "last_update": 1647482035000,
+            "last_update": 1659090048000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/archive/master.zip"
@@ -213,14 +213,14 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1659032207000,
+            "last_update": 1659086639000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
             "id": "huskydg_swapram",
-            "last_update": 1658303491000,
+            "last_update": 1659086625000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/archive/master.zip"
@@ -234,7 +234,7 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1658997852000,
+            "last_update": 1659087076000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/master.zip"
