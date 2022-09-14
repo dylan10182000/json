@@ -248,7 +248,7 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1662908006000,
+            "last_update": 1663122464000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
@@ -395,7 +395,7 @@
         },
         {
             "id": "riru-integrityfix",
-            "last_update": 1662030130000,
+            "last_update": 1663120878000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/riru-integrityfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/riru-integrityfix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/riru-integrityfix/archive/master.zip"
