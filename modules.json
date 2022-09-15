@@ -31,7 +31,7 @@
         },
         {
             "id": "AFWall-Boot-AntiLeak",
-            "last_update": 1660113910000,
+            "last_update": 1663247159000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/master.zip"
@@ -73,7 +73,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1662965920000,
+            "last_update": 1663247193000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -115,14 +115,14 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1656598029000,
+            "last_update": 1663247181000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
             "id": "CloudflareDNS4Magisk-IPv6",
-            "last_update": 1656598027000,
+            "last_update": 1663247185000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
@@ -150,7 +150,7 @@
         },
         {
             "id": "Detach",
-            "last_update": 1660441648000,
+            "last_update": 1663247172000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
@@ -248,7 +248,7 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1663122464000,
+            "last_update": 1663246997000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
@@ -311,7 +311,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1659373842000,
+            "last_update": 1663247230000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -353,7 +353,7 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1662398467000,
+            "last_update": 1663247216000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "trichromelibrary-squoosh",
-            "last_update": 1658687561000,
+            "last_update": 1663247226000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/archive/master.zip"
@@ -472,7 +472,7 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1658930348000,
+            "last_update": 1663247168000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
