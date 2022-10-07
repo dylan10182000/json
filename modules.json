@@ -255,14 +255,14 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1664875000000,
+            "last_update": 1665163742000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
             "id": "huskydg_swapram",
-            "last_update": 1664262269000,
+            "last_update": 1665163724000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/archive/master.zip"
@@ -304,7 +304,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1663832350000,
+            "last_update": 1665163730000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
