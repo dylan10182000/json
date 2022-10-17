@@ -276,7 +276,7 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1665752519000,
+            "last_update": 1666044678000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/master.zip"
@@ -409,7 +409,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1664918716000,
+            "last_update": 1666044321000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -479,7 +479,7 @@
         },
         {
             "id": "ttf-twemoji",
-            "last_update": 1665082598000,
+            "last_update": 1666044687000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/master.zip"
