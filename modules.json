@@ -247,13 +247,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
         },
         {
-            "id": "GlitchedCyberBoot",
-            "last_update": 1673953497000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/archive/master.zip"
-        },
-        {
             "id": "GMSDozeBlockFind",
             "last_update": 1674243764000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/master/README.md",
@@ -434,13 +427,6 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/archive/master.zip"
-        },
-        {
-            "id": "OnePlus6Oxygen_22.J.62_debloater",
-            "last_update": 1661263266000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/master.zip"
         },
         {
             "id": "oneplusdotfix",
