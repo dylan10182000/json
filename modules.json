@@ -332,7 +332,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1673814454000,
+            "last_update": 1675151934000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
@@ -402,7 +402,7 @@
         },
         {
             "id": "NoProcStatRestriction",
-            "last_update": 1675050270000,
+            "last_update": 1675152239000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/archive/master.zip"
@@ -458,7 +458,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1674080742000,
+            "last_update": 1675152216000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
