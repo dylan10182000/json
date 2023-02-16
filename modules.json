@@ -324,6 +324,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/archive/master.zip"
         },
         {
+            "id": "magiskhide",
+            "last_update": 1676532920000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/master.zip"
+        },
+        {
             "id": "magisk_proc_monitor",
             "last_update": 1675201036000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
