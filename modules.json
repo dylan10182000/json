@@ -422,13 +422,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/master.zip"
         },
         {
-            "id": "oneplusdotfix",
-            "last_update": 1673854056000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/archive/master.zip"
-        },
-        {
             "id": "open_fonts",
             "last_update": 1677214579000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
