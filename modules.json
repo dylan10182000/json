@@ -3,7 +3,7 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1680271443000,
+            "last_update": 1680282963000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/master.zip"
@@ -591,7 +591,7 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1674995428000,
+            "last_update": 1680282982000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/master.zip"
