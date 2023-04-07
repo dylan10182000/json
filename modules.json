@@ -164,7 +164,7 @@
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1675932997000,
+            "last_update": 1680828361000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/master.zip"
@@ -206,7 +206,7 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1679720399000,
+            "last_update": 1680825167000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/master.zip"
@@ -507,7 +507,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1680784313000,
+            "last_update": 1680825160000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
