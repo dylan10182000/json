@@ -297,14 +297,14 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1680000685000,
+            "last_update": 1681033757000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/master.zip"
         },
         {
             "id": "lhroot",
-            "last_update": 1680282664000,
+            "last_update": 1681033450000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
@@ -381,7 +381,7 @@
         },
         {
             "id": "mkshrc",
-            "last_update": 1679186666000,
+            "last_update": 1681034006000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
@@ -458,7 +458,7 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1680109129000,
+            "last_update": 1681033634000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
@@ -535,7 +535,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1678324926000,
+            "last_update": 1681033824000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
