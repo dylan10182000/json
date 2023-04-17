@@ -290,7 +290,7 @@
         },
         {
             "id": "KTSR",
-            "last_update": 1679841301000,
+            "last_update": 1681728791000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
@@ -329,6 +329,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
+        },
+        {
+            "id": "magic-mount-extend",
+            "last_update": 1681729255000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-mount-extend/archive/master.zip"
         },
         {
             "id": "magisk-captive-control",
