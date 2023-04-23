@@ -332,7 +332,7 @@
         },
         {
             "id": "magic-mount-extend",
-            "last_update": 1681737774000,
+            "last_update": 1682222218000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-mount-extend/archive/master.zip"
@@ -402,7 +402,7 @@
         },
         {
             "id": "NavBar_Resize_Miui10-11-12-13",
-            "last_update": 1662385781000,
+            "last_update": 1682223441000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/archive/master.zip"
@@ -521,7 +521,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1682147815000,
+            "last_update": 1682222252000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
