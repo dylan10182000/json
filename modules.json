@@ -387,6 +387,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
+            "id": "MiXplorer",
+            "last_update": 1682726203000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
+        },
+        {
             "id": "mkshrc",
             "last_update": 1681924164000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
