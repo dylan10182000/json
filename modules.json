@@ -304,7 +304,7 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1682443439000,
+            "last_update": 1683249123000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
@@ -619,14 +619,14 @@
         },
         {
             "id": "ytmusic_revancedinject",
-            "last_update": 1681966852000,
+            "last_update": 1683246882000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/archive/master.zip"
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1682754706000,
+            "last_update": 1683246882000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/master.zip"
