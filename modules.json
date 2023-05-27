@@ -338,13 +338,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
         },
         {
-            "id": "magic-mount-extend",
-            "last_update": 1682670351000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-mount-extend/archive/master.zip"
-        },
-        {
             "id": "magisk-captive-control",
             "last_update": 1679136327000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
