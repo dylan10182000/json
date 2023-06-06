@@ -66,7 +66,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1685507110000,
+            "last_update": 1686052838000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -563,7 +563,7 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1685680351000,
+            "last_update": 1686053051000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/master.zip"
