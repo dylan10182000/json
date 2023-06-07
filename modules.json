@@ -17,7 +17,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk-IPv6",
-            "last_update": 1680281458000,
+            "last_update": 1686146226000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/archive/master.zip"
@@ -591,7 +591,7 @@
         },
         {
             "id": "UbuntuFontVinaooo",
-            "last_update": 1683395670000,
+            "last_update": 1686146299000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/archive/master.zip"
