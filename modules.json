@@ -157,7 +157,7 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1686075786000,
+            "last_update": 1686436911000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/master.zip"
@@ -332,7 +332,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1684935990000,
+            "last_update": 1686436630000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
