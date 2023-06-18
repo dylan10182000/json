@@ -10,7 +10,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk",
-            "last_update": 1685258530000,
+            "last_update": 1687104447000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/archive/master.zip"
@@ -31,14 +31,14 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1683016107000,
+            "last_update": 1687102126000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/master.zip"
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1686727307000,
+            "last_update": 1687102129000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -66,7 +66,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1686926703000,
+            "last_update": 1687104260000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -465,7 +465,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1687002602000,
+            "last_update": 1687104407000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -535,7 +535,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1685585372000,
+            "last_update": 1687104239000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
@@ -556,7 +556,7 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1686515199000,
+            "last_update": 1687104205000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
@@ -605,7 +605,7 @@
         },
         {
             "id": "xhhttp",
-            "last_update": 1684238454000,
+            "last_update": 1687104341000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
