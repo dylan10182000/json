@@ -115,7 +115,7 @@
         },
         {
             "id": "CloudflareDNS4Magisk-IPv6",
-            "last_update": 1677939559000,
+            "last_update": 1690053274000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
@@ -255,7 +255,7 @@
         },
         {
             "id": "GMSDoze",
-            "last_update": 1689790529000,
+            "last_update": 1690053520000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/master.zip"
