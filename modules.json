@@ -136,7 +136,7 @@
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1692221174000,
+            "last_update": 1692899738000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
@@ -168,6 +168,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/master.zip"
+        },
+        {
+            "id": "data_restore_Courier",
+            "last_update": 1692900436000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/archive/master.zip"
         },
         {
             "id": "Detach",
