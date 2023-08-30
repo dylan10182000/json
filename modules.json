@@ -31,7 +31,7 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1693375316000,
+            "last_update": 1693390465000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/master.zip"
@@ -367,7 +367,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1692278845000,
+            "last_update": 1693387568000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -626,7 +626,7 @@
         },
         {
             "id": "xhhttp",
-            "last_update": 1688943380000,
+            "last_update": 1693387031000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
