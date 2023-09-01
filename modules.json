@@ -380,6 +380,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
         },
         {
+            "id": "Malwack",
+            "last_update": 1693578621000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/master.zip"
+        },
+        {
             "id": "microG-GApps",
             "last_update": 1692948867000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
@@ -483,6 +490,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/archive/master.zip"
+        },
+        {
+            "id": "perf-limit-xiaomi-12",
+            "last_update": 1693578760000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/archive/master.zip"
         },
         {
             "id": "pixel-tensor-audio-decompressor",
