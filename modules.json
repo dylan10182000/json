@@ -66,7 +66,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1694441057000,
+            "last_update": 1694477040000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -304,7 +304,7 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1694372482000,
+            "last_update": 1694478086000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/master.zip"
