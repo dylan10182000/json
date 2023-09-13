@@ -269,7 +269,7 @@
         },
         {
             "id": "GMSDoze",
-            "last_update": 1693624005000,
+            "last_update": 1694638788000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1694328747000,
+            "last_update": 1694637747000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/master.zip"
