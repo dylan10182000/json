@@ -192,7 +192,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1694324138000,
+            "last_update": 1694586830000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
@@ -542,7 +542,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1694548289000,
+            "last_update": 1694586651000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
@@ -598,7 +598,7 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1694463461000,
+            "last_update": 1694586695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
@@ -661,7 +661,7 @@
         },
         {
             "id": "xmlpak-RE",
-            "last_update": 1694160285000,
+            "last_update": 1694586745000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/master.zip"
