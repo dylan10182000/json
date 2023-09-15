@@ -73,14 +73,14 @@
         },
         {
             "id": "charch",
-            "last_update": 1673489601000,
+            "last_update": 1694806591000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
         },
         {
             "id": "charch_dinit",
-            "last_update": 1667480841000,
+            "last_update": 1694806603000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/archive/master.zip"
@@ -108,7 +108,7 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1663247181000,
+            "last_update": 1694806053000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/archive/master.zip"
@@ -129,14 +129,14 @@
         },
         {
             "id": "com.omergoktas.Foundation",
-            "last_update": 1689387511000,
+            "last_update": 1694806013000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/archive/master.zip"
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1693643758000,
+            "last_update": 1694806808000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
@@ -178,14 +178,14 @@
         },
         {
             "id": "Detach",
-            "last_update": 1683796768000,
+            "last_update": 1694806696000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
         },
         {
             "id": "djs",
-            "last_update": 1660442050000,
+            "last_update": 1694806838000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/djs/archive/master.zip"
@@ -213,7 +213,7 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1691505183000,
+            "last_update": 1694806278000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/master.zip"
@@ -241,14 +241,14 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1693463438000,
+            "last_update": 1694806071000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/master.zip"
         },
         {
             "id": "gboard-dict-3",
-            "last_update": 1691722725000,
+            "last_update": 1694806560000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
@@ -290,14 +290,14 @@
         },
         {
             "id": "Google_Product_Sans_Font",
-            "last_update": 1694396525000,
+            "last_update": 1694806679000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/archive/master.zip"
         },
         {
             "id": "heimdall-ndk",
-            "last_update": 1688134329000,
+            "last_update": 1694806459000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/archive/master.zip"
@@ -311,7 +311,7 @@
         },
         {
             "id": "KTSR",
-            "last_update": 1692029421000,
+            "last_update": 1694806476000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
@@ -339,7 +339,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1693901767000,
+            "last_update": 1694806554000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
@@ -353,7 +353,7 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1692519214000,
+            "last_update": 1694806876000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/archive/master.zip"
@@ -430,7 +430,7 @@
         },
         {
             "id": "NoProcStatRestriction",
-            "last_update": 1688669661000,
+            "last_update": 1694806047000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/archive/master.zip"
@@ -444,7 +444,7 @@
         },
         {
             "id": "OneController",
-            "last_update": 1689058102000,
+            "last_update": 1694806624000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OneController/archive/master.zip"
@@ -486,7 +486,7 @@
         },
         {
             "id": "pdx213_assistant_camera_remap",
-            "last_update": 1661980864000,
+            "last_update": 1694806454000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/archive/master.zip"
@@ -521,7 +521,7 @@
         },
         {
             "id": "RTKS",
-            "last_update": 1689057940000,
+            "last_update": 1694806131000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/RTKS/archive/master.zip"
@@ -535,7 +535,7 @@
         },
         {
             "id": "selinux_mode",
-            "last_update": 1688012697000,
+            "last_update": 1694806495000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/archive/master.zip"
@@ -584,7 +584,7 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1693042060000,
+            "last_update": 1694806812000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/master.zip"
@@ -605,14 +605,14 @@
         },
         {
             "id": "trichromelibrary-squoosh",
-            "last_update": 1694062065000,
+            "last_update": 1694806515000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/archive/master.zip"
         },
         {
             "id": "ttf-twemoji",
-            "last_update": 1686348529000,
+            "last_update": 1694806443000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/master.zip"
