@@ -31,14 +31,14 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1694577112000,
+            "last_update": 1694799390000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/master.zip"
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1694323196000,
+            "last_update": 1694799422000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -164,14 +164,14 @@
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1693413623000,
+            "last_update": 1694798394000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/master.zip"
         },
         {
             "id": "data_restore_Courier",
-            "last_update": 1693132100000,
+            "last_update": 1694801717000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/archive/master.zip"
@@ -192,7 +192,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1694586830000,
+            "last_update": 1694799646000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
@@ -227,7 +227,7 @@
         },
         {
             "id": "FluentEmojiMagisk",
-            "last_update": 1693109682000,
+            "last_update": 1694801831000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/archive/master.zip"
@@ -304,7 +304,7 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1694478086000,
+            "last_update": 1694799160000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/master.zip"
@@ -374,14 +374,14 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1694744520000,
+            "last_update": 1694798308000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
         },
         {
             "id": "Malwack",
-            "last_update": 1694195735000,
+            "last_update": 1694798132000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/master.zip"
@@ -402,14 +402,14 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1694632523000,
+            "last_update": 1694798452000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
         },
         {
             "id": "mkshrc",
-            "last_update": 1694322671000,
+            "last_update": 1694798965000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
@@ -542,7 +542,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1694586651000,
+            "last_update": 1694801840000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
@@ -556,7 +556,7 @@
         },
         {
             "id": "smallbattery",
-            "last_update": 1693414833000,
+            "last_update": 1694799337000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/master.zip"
@@ -577,7 +577,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1694427400000,
+            "last_update": 1694800101000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
@@ -598,7 +598,7 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1694586695000,
+            "last_update": 1694802007000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
@@ -633,7 +633,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1694324319000,
+            "last_update": 1694800543000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
@@ -647,7 +647,7 @@
         },
         {
             "id": "wifi-bonding-nolog",
-            "last_update": 1694365685000,
+            "last_update": 1694800190000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
@@ -661,14 +661,14 @@
         },
         {
             "id": "xmlpak-RE",
-            "last_update": 1694586745000,
+            "last_update": 1694802053000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/master.zip"
         },
         {
             "id": "YAKT",
-            "last_update": 1694199961000,
+            "last_update": 1694799697000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/master.zip"
