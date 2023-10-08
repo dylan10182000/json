@@ -241,7 +241,7 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1694806071000,
+            "last_update": 1696771395000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/master.zip"
@@ -374,7 +374,7 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1694798308000,
+            "last_update": 1696772747000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
