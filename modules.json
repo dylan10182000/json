@@ -381,14 +381,14 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1696787836000,
+            "last_update": 1696817539000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/master.zip"
         },
         {
             "id": "microG-GApps",
-            "last_update": 1695484969000,
+            "last_update": 1696817504000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
@@ -472,7 +472,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1696769211000,
+            "last_update": 1696816451000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
