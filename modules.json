@@ -408,13 +408,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
         },
         {
-            "id": "mkshrc",
-            "last_update": 1695567598000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
-        },
-        {
             "id": "NavBar_Resize",
             "last_update": 1687873830000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/master/README.md",
