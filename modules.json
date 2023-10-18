@@ -542,7 +542,7 @@
         },
         {
             "id": "smallbattery",
-            "last_update": 1696489955000,
+            "last_update": 1697627552000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/master.zip"
@@ -563,7 +563,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1697585088000,
+            "last_update": 1697627632000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
