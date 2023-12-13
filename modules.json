@@ -52,7 +52,7 @@
         },
         {
             "id": "backup",
-            "last_update": 1700422930000,
+            "last_update": 1702479277000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
@@ -493,7 +493,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1702475404000,
+            "last_update": 1702477622000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -598,7 +598,7 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1701040684000,
+            "last_update": 1702479268000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/master.zip"
