@@ -374,14 +374,14 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1703802336000,
+            "last_update": 1703813913000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1703704774000,
+            "last_update": 1703812512000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
