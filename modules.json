@@ -359,6 +359,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
         },
         {
+            "id": "magisk-autoboot",
+            "last_update": 1705089009000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/master.zip"
+        },
+        {
             "id": "magisk-captive-control",
             "last_update": 1692519196000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
