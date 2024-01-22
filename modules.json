@@ -458,7 +458,7 @@
         },
         {
             "id": "NoProcStatRestriction",
-            "last_update": 1702838757000,
+            "last_update": 1705881123000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/archive/master.zip"
