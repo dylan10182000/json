@@ -79,6 +79,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
         },
         {
+            "id": "ByeBlur",
+            "last_update": 1706384545000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur/archive/master.zip"
+        },
+        {
             "id": "charch",
             "last_update": 1694806591000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
