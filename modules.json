@@ -80,7 +80,7 @@
         },
         {
             "id": "ByeBlur",
-            "last_update": 1706384545000,
+            "last_update": 1706397413000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur/archive/master.zip"
@@ -577,7 +577,7 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1706389407000,
+            "last_update": 1706397527000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
