@@ -360,7 +360,7 @@
         },
         {
             "id": "MacRandomizationEnabler",
-            "last_update": 1702929549000,
+            "last_update": 1707403310000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
@@ -717,7 +717,7 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1704362803000,
+            "last_update": 1707404590000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/master.zip"
