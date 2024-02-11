@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1707531510000,
+            "last_update": 1707654030000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -45,14 +45,14 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1707327407000,
+            "last_update": 1707654270000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/master.zip"
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1707498417000,
+            "last_update": 1707654235000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -213,7 +213,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1707491642000,
+            "last_update": 1707654338000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
@@ -339,7 +339,7 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1706870267000,
+            "last_update": 1707654475000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/master.zip"
@@ -374,7 +374,7 @@
         },
         {
             "id": "magisk-autoboot",
-            "last_update": 1705897040000,
+            "last_update": 1707654295000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/master.zip"
@@ -479,7 +479,7 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1707375014000,
+            "last_update": 1707654372000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/master.zip"
@@ -640,7 +640,7 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1707000065000,
+            "last_update": 1707654386000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/master.zip"
@@ -682,7 +682,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1707115897000,
+            "last_update": 1707654258000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1707133236000,
+            "last_update": 1707654376000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
