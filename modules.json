@@ -59,7 +59,7 @@
         },
         {
             "id": "backup",
-            "last_update": 1707838528000,
+            "last_update": 1708803476000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
@@ -171,7 +171,7 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1708014339000,
+            "last_update": 1708802038000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/master.zip"
@@ -297,14 +297,14 @@
         },
         {
             "id": "Google-Sans",
-            "last_update": 1697906851000,
+            "last_update": 1708802135000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/archive/master.zip"
         },
         {
             "id": "Google-Sans-Plus",
-            "last_update": 1704915915000,
+            "last_update": 1708802137000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
@@ -325,7 +325,7 @@
         },
         {
             "id": "Google_Product_Sans_Font",
-            "last_update": 1708346186000,
+            "last_update": 1708802132000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/archive/master.zip"
@@ -367,7 +367,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1708427112000,
+            "last_update": 1708803478000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
@@ -514,7 +514,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1708551129000,
+            "last_update": 1708802403000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
