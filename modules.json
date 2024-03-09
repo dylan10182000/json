@@ -346,7 +346,7 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1705787666000,
+            "last_update": 1709984973000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
@@ -668,7 +668,7 @@
         },
         {
             "id": "UbuntuFontVinaooo",
-            "last_update": 1694803248000,
+            "last_update": 1709985507000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/archive/master.zip"
