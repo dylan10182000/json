@@ -87,7 +87,7 @@
         },
         {
             "id": "ByeBlur",
-            "last_update": 1706444236000,
+            "last_update": 1710179130000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Bye-Blur/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur/archive/master.zip"
@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1710176238000,
+            "last_update": 1710178879000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -192,7 +192,7 @@
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1708820596000,
+            "last_update": 1710181168000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/master.zip"
