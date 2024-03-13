@@ -24,7 +24,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk",
-            "last_update": 1709174197000,
+            "last_update": 1710324795000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/archive/master.zip"
@@ -297,7 +297,7 @@
         },
         {
             "id": "GMSDoze",
-            "last_update": 1710211295000,
+            "last_update": 1710321533000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/master.zip"
