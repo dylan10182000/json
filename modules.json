@@ -163,6 +163,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/archive/master.zip"
         },
         {
+            "id": "compatible-magisk-mirroring",
+            "last_update": 1711839070000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/master.zip"
+        },
+        {
             "id": "custom-certificate-authorities",
             "last_update": 1711314697000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
@@ -245,6 +252,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/master.zip"
+        },
+        {
+            "id": "faina",
+            "last_update": 1711839197000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/faina/archive/master.zip"
         },
         {
             "id": "vr25.fbind",
