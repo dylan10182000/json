@@ -80,7 +80,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1711983337000,
+            "last_update": 1712020372000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1711689868000,
+            "last_update": 1712020649000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
