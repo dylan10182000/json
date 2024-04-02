@@ -528,7 +528,7 @@
         },
         {
             "id": "oneplusdotfix",
-            "last_update": 1673854056000,
+            "last_update": 1712078728000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/archive/master.zip"
@@ -724,7 +724,7 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1710528211000,
+            "last_update": 1712078288000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
