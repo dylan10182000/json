@@ -52,7 +52,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1713287469000,
+            "last_update": 1713332219000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -185,7 +185,7 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1712792039000,
+            "last_update": 1713333399000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/master.zip"
@@ -213,7 +213,7 @@
         },
         {
             "id": "Detach",
-            "last_update": 1705913684000,
+            "last_update": 1713333449000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
@@ -255,7 +255,7 @@
         },
         {
             "id": "faina",
-            "last_update": 1711839197000,
+            "last_update": 1713332347000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/faina/archive/master.zip"
@@ -276,7 +276,7 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1707035241000,
+            "last_update": 1713333610000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/master.zip"
@@ -374,7 +374,7 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1712851449000,
+            "last_update": 1713332486000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
@@ -395,7 +395,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1712829698000,
+            "last_update": 1713333437000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
@@ -423,7 +423,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1712013353000,
+            "last_update": 1713333309000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
@@ -451,14 +451,14 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1711136850000,
+            "last_update": 1713333353000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
             "id": "microg_installer",
-            "last_update": 1712944278000,
+            "last_update": 1713332527000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
@@ -577,7 +577,7 @@
         },
         {
             "id": "pmmp",
-            "last_update": 1712503156000,
+            "last_update": 1713332598000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/archive/master.zip"
@@ -703,7 +703,7 @@
         },
         {
             "id": "unityfix",
-            "last_update": 1712792043000,
+            "last_update": 1713332316000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/master.zip"
