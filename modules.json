@@ -192,7 +192,7 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1709748613000,
+            "last_update": 1714524207000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/master.zip"
@@ -647,7 +647,7 @@
         },
         {
             "id": "supl-replacer",
-            "last_update": 1714407296000,
+            "last_update": 1714525725000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
