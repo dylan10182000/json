@@ -24,7 +24,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk",
-            "last_update": 1714070891000,
+            "last_update": 1715412337000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/archive/master.zip"
@@ -38,7 +38,7 @@
         },
         {
             "id": "AFWall-Boot-AntiLeak",
-            "last_update": 1714582565000,
+            "last_update": 1715413201000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/master.zip"
@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1714612153000,
+            "last_update": 1715412175000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -136,7 +136,7 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1705862161000,
+            "last_update": 1715412892000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/archive/master.zip"
@@ -262,7 +262,7 @@
         },
         {
             "id": "vr25.fbind",
-            "last_update": 1714202362000,
+            "last_update": 1715413174000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
@@ -276,7 +276,7 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1713333610000,
+            "last_update": 1715413239000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/master.zip"
@@ -346,14 +346,14 @@
         },
         {
             "id": "Google_Product_Sans_Font",
-            "last_update": 1715276466000,
+            "last_update": 1715413128000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/archive/master.zip"
         },
         {
             "id": "heimdall-ndk",
-            "last_update": 1713368211000,
+            "last_update": 1715412972000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/archive/master.zip"
@@ -388,7 +388,7 @@
         },
         {
             "id": "MacRandomizationEnabler",
-            "last_update": 1707403310000,
+            "last_update": 1715413300000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
@@ -402,7 +402,7 @@
         },
         {
             "id": "magisk-autoboot",
-            "last_update": 1711366707000,
+            "last_update": 1715412259000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/master.zip"
@@ -437,21 +437,21 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1713713092000,
+            "last_update": 1715412554000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
         },
         {
             "id": "Malwack",
-            "last_update": 1715204459000,
+            "last_update": 1715412401000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/master.zip"
         },
         {
             "id": "microG-GApps",
-            "last_update": 1714879690000,
+            "last_update": 1715412641000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
@@ -619,7 +619,7 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1714914808000,
+            "last_update": 1715412674000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
@@ -654,7 +654,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1714702328000,
+            "last_update": 1715412439000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "UbuntuFontVinaooo",
-            "last_update": 1709985507000,
+            "last_update": 1715412812000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/archive/master.zip"
