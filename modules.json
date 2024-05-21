@@ -465,7 +465,7 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1716285788000,
+            "last_update": 1716294806000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
@@ -640,7 +640,7 @@
         },
         {
             "id": "sqlite3",
-            "last_update": 1714850724000,
+            "last_update": 1716293827000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
@@ -724,7 +724,7 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1716111110000,
+            "last_update": 1716293961000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
