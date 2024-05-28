@@ -528,7 +528,7 @@
         },
         {
             "id": "oneplus-8series-9r-camera-unlocker",
-            "last_update": 1699306111000,
+            "last_update": 1716901964000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/archive/master.zip"
@@ -563,7 +563,7 @@
         },
         {
             "id": "perf-limit-xiaomi-12",
-            "last_update": 1714031774000,
+            "last_update": 1716900857000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/archive/master.zip"
