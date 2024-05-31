@@ -185,7 +185,7 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1713930676000,
+            "last_update": 1717195614000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/master.zip"
@@ -220,7 +220,7 @@
         },
         {
             "id": "disable-low-ram",
-            "last_update": 1716996815000,
+            "last_update": 1717194246000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1715502417000,
+            "last_update": 1717195249000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -549,7 +549,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1716716226000,
+            "last_update": 1717195382000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
