@@ -31,7 +31,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk-IPv6",
-            "last_update": 1711605136000,
+            "last_update": 1717919088000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/archive/master.zip"
@@ -248,7 +248,7 @@
         },
         {
             "id": "ezme-dex-space",
-            "last_update": 1710283816000,
+            "last_update": 1717919310000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/archive/master.zip"
@@ -598,7 +598,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1717868080000,
+            "last_update": 1717921287000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/master.zip"
