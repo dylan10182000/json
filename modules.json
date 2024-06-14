@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1718271993000,
+            "last_update": 1718328915000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -731,7 +731,7 @@
         },
         {
             "id": "unityfix",
-            "last_update": 1713946232000,
+            "last_update": 1718330654000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/master.zip"
