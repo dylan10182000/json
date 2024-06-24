@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1719202362000,
+            "last_update": 1719212391000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -199,7 +199,7 @@
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1717554927000,
+            "last_update": 1719212391000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/master.zip"
@@ -248,7 +248,7 @@
         },
         {
             "id": "ezme-dex-space",
-            "last_update": 1717919310000,
+            "last_update": 1719212391000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/archive/master.zip"
@@ -507,7 +507,7 @@
         },
         {
             "id": "NoProcStatRestriction",
-            "last_update": 1705881123000,
+            "last_update": 1719212391000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/archive/master.zip"
@@ -752,7 +752,7 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1716293961000,
+            "last_update": 1719212391000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
