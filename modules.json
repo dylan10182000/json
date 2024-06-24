@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1719212391000,
+            "last_update": 1719219673000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -472,7 +472,7 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1718969494000,
+            "last_update": 1719219989000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
@@ -661,7 +661,7 @@
         },
         {
             "id": "StevenBlock",
-            "last_update": 1719173630000,
+            "last_update": 1719220412000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/master.zip"
