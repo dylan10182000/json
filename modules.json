@@ -185,7 +185,7 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1718695265000,
+            "last_update": 1720021233000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/master.zip"
@@ -731,7 +731,7 @@
         },
         {
             "id": "unityfix",
-            "last_update": 1718372657000,
+            "last_update": 1720021233000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/master.zip"
