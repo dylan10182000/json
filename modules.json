@@ -626,7 +626,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1720799522000,
+            "last_update": 1721035108000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
@@ -661,7 +661,7 @@
         },
         {
             "id": "StevenBlock",
-            "last_update": 1720811079000,
+            "last_update": 1721032881000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/master.zip"
@@ -787,7 +787,7 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1720937271000,
+            "last_update": 1721033052000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/master.zip"
