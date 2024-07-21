@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1721398708000,
+            "last_update": 1721522140000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -430,7 +430,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1721265715000,
+            "last_update": 1721518242000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
