@@ -164,7 +164,7 @@
         },
         {
             "id": "compatible-magisk-mirroring",
-            "last_update": 1722413918000,
+            "last_update": 1722717090000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/master.zip"
@@ -304,7 +304,7 @@
         },
         {
             "id": "GlitchedCyberBoot",
-            "last_update": 1717969359000,
+            "last_update": 1722717087000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/archive/master.zip"
@@ -402,14 +402,14 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1722572139000,
+            "last_update": 1722716671000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
         },
         {
             "id": "magisk-autoboot",
-            "last_update": 1719176483000,
+            "last_update": 1722717089000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/master.zip"
@@ -633,7 +633,7 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1722619840000,
+            "last_update": 1722717088000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
@@ -675,7 +675,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1722518527000,
+            "last_update": 1722717091000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
