@@ -619,7 +619,7 @@
         },
         {
             "id": "selinux_mode",
-            "last_update": 1718987781000,
+            "last_update": 1722755208000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/archive/master.zip"
@@ -773,7 +773,7 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1719514564000,
+            "last_update": 1722755083000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/master.zip"
