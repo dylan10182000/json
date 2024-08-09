@@ -80,7 +80,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1722826321000,
+            "last_update": 1723186099000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -598,7 +598,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1722482571000,
+            "last_update": 1723185325000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/master.zip"
