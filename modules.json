@@ -220,7 +220,7 @@
         },
         {
             "id": "disable-low-ram",
-            "last_update": 1720516158000,
+            "last_update": 1723323644000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/archive/master.zip"
@@ -675,7 +675,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1723232440000,
+            "last_update": 1723323575000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
