@@ -45,7 +45,7 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1723030125000,
+            "last_update": 1723951585000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/master.zip"
@@ -164,7 +164,7 @@
         },
         {
             "id": "compatible-magisk-mirroring",
-            "last_update": 1723534209000,
+            "last_update": 1723954311000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/master.zip"
@@ -234,7 +234,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1723887073000,
+            "last_update": 1723951557000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
@@ -619,7 +619,7 @@
         },
         {
             "id": "selinux_mode",
-            "last_update": 1722755208000,
+            "last_update": 1723952237000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/archive/master.zip"
