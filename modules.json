@@ -192,7 +192,7 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1723065565000,
+            "last_update": 1724569022000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/master.zip"
@@ -724,7 +724,7 @@
         },
         {
             "id": "UbuntuFontVinaooo",
-            "last_update": 1724197318000,
+            "last_update": 1724569028000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/archive/master.zip"
@@ -745,21 +745,21 @@
         },
         {
             "id": "vintf-bypass",
-            "last_update": 1702645864000,
+            "last_update": 1724569049000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1723415688000,
+            "last_update": 1724569005000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
             "id": "xhhttp",
-            "last_update": 1719138330000,
+            "last_update": 1724568995000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
