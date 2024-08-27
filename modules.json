@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1724618673000,
+            "last_update": 1724790200000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -430,7 +430,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1724766315000,
+            "last_update": 1724792843000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
