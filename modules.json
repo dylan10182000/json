@@ -367,7 +367,7 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1721396645000,
+            "last_update": 1725150211000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/master.zip"
@@ -619,7 +619,7 @@
         },
         {
             "id": "selinux_mode",
-            "last_update": 1723952237000,
+            "last_update": 1725152097000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/archive/master.zip"
@@ -773,7 +773,7 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1724046359000,
+            "last_update": 1725148983000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/master.zip"
