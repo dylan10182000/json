@@ -465,7 +465,7 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1725659462000,
+            "last_update": 1725942696000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
@@ -647,7 +647,7 @@
         },
         {
             "id": "smallbattery",
-            "last_update": 1716622290000,
+            "last_update": 1725945423000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/master.zip"
