@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1726039505000,
+            "last_update": 1726447636000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -633,7 +633,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1726398062000,
+            "last_update": 1726450632000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
