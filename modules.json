@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1726578727000,
+            "last_update": 1726634576000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -374,7 +374,7 @@
         },
         {
             "id": "kaina",
-            "last_update": 1723294574000,
+            "last_update": 1726635148000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/kaina/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/kaina/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/kaina/archive/master.zip"
@@ -493,7 +493,7 @@
         },
         {
             "id": "NavBar_Resize",
-            "last_update": 1725706086000,
+            "last_update": 1726634430000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/archive/master.zip"
@@ -738,7 +738,7 @@
         },
         {
             "id": "unityfix",
-            "last_update": 1725292783000,
+            "last_update": 1726634867000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/master.zip"
