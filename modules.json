@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1726191426000,
+            "last_update": 1726709915000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
@@ -794,7 +794,7 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1725458339000,
+            "last_update": 1726707508000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/master.zip"
