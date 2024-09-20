@@ -381,7 +381,7 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1724028622000,
+            "last_update": 1726857176000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
@@ -556,7 +556,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1726680691000,
+            "last_update": 1726858109000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
