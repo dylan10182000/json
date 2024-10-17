@@ -10,7 +10,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1729163797000,
+            "last_update": 1729180884000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/master.zip"
@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1729145551000,
+            "last_update": 1729179050000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -598,7 +598,7 @@
         },
         {
             "id": "pmmp",
-            "last_update": 1729178384000,
+            "last_update": 1729180685000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/archive/master.zip"
