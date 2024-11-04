@@ -52,7 +52,7 @@
         },
         {
             "id": "backup",
-            "last_update": 1730323439000,
+            "last_update": 1730700638000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
@@ -157,7 +157,7 @@
         },
         {
             "id": "compatible-magisk-mirroring",
-            "last_update": 1729820741000,
+            "last_update": 1730700694000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/master.zip"
