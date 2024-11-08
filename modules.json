@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1731030019000,
+            "last_update": 1731086222000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
@@ -458,7 +458,7 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1730876813000,
+            "last_update": 1731084887000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/master.zip"
@@ -668,7 +668,7 @@
         },
         {
             "id": "StevenBlock",
-            "last_update": 1731083172000,
+            "last_update": 1731083774000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/master.zip"
