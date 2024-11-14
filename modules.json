@@ -297,7 +297,7 @@
         },
         {
             "id": "gboard-dict-3",
-            "last_update": 1731223606000,
+            "last_update": 1731544419000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
@@ -318,7 +318,7 @@
         },
         {
             "id": "GMSDoze",
-            "last_update": 1728059486000,
+            "last_update": 1731544395000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/master.zip"
