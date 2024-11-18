@@ -45,7 +45,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1731825880000,
+            "last_update": 1731922685000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -115,7 +115,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1731882075000,
+            "last_update": 1731923307000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -661,7 +661,7 @@
         },
         {
             "id": "StevenBlock",
-            "last_update": 1731429244000,
+            "last_update": 1731922812000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/master.zip"
@@ -675,7 +675,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1731340877000,
+            "last_update": 1731922966000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
