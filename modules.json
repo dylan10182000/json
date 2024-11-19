@@ -115,7 +115,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1731971592000,
+            "last_update": 1732003451000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -248,7 +248,7 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1730575523000,
+            "last_update": 1732001947000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/master.zip"
@@ -626,7 +626,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1731808825000,
+            "last_update": 1732003793000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
