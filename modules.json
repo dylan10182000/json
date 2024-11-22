@@ -45,10 +45,17 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1731922685000,
+            "last_update": 1732297702000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
+        },
+        {
+            "id": "audio-samplerate-changer",
+            "last_update": 1732300026000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/master.zip"
         },
         {
             "id": "backup",
@@ -597,6 +604,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/archive/master.zip"
         },
         {
+            "id": "Re-Malwack",
+            "last_update": 1732299968000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
+        },
+        {
             "id": "resampling-for-cheapies",
             "last_update": 1732033252000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/README.md",
@@ -744,11 +758,25 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
         },
         {
+            "id": "video-to-bootanimation",
+            "last_update": 1732299793000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
+        },
+        {
             "id": "vintf-bypass",
             "last_update": 1729806219000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
+        },
+        {
+            "id": "wadbd",
+            "last_update": 1732300091000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/archive/master.zip"
         },
         {
             "id": "wifi-bonding",
