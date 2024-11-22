@@ -605,7 +605,7 @@
         },
         {
             "id": "Re-Malwack",
-            "last_update": 1732304459000,
+            "last_update": 1732307390000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
@@ -759,7 +759,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1732303741000,
+            "last_update": 1732309988000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
