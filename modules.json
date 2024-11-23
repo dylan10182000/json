@@ -170,6 +170,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/master.zip"
         },
         {
+            "id": "Custom-Certificate-Authorities",
+            "last_update": 1732325565000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
+        },
+        {
             "id": "CustomizedNavbar",
             "last_update": 1731073044000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/master/README.md",
@@ -605,7 +612,7 @@
         },
         {
             "id": "Re-Malwack",
-            "last_update": 1732312056000,
+            "last_update": 1732325841000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
