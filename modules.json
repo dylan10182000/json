@@ -185,7 +185,7 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1732288210000,
+            "last_update": 1732447944000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/master.zip"
@@ -381,7 +381,7 @@
         },
         {
             "id": "kaina",
-            "last_update": 1731341189000,
+            "last_update": 1732451154000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/kaina/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/kaina/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/kaina/archive/master.zip"
@@ -451,7 +451,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1731939741000,
+            "last_update": 1732451728000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -472,7 +472,7 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1731819498000,
+            "last_update": 1732449585000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
@@ -486,14 +486,14 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1731892952000,
+            "last_update": 1732449724000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
         },
         {
             "id": "mkshrc",
-            "last_update": 1731295502000,
+            "last_update": 1732450900000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1731922966000,
+            "last_update": 1732450767000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
