@@ -31,7 +31,7 @@
         },
         {
             "id": "AFWall-Boot-AntiLeak",
-            "last_update": 1731292902000,
+            "last_update": 1732580335000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/master.zip"
@@ -136,14 +136,14 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1727902258000,
+            "last_update": 1732580235000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
             "id": "CloudflareDNS4Magisk-IPv6",
-            "last_update": 1725330719000,
+            "last_update": 1732580238000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
@@ -234,7 +234,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1730374628000,
+            "last_update": 1732580057000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
@@ -374,7 +374,7 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1729037299000,
+            "last_update": 1732580179000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/master.zip"
@@ -402,7 +402,7 @@
         },
         {
             "id": "MacRandomizationEnabler",
-            "last_update": 1728009457000,
+            "last_update": 1732580391000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
@@ -542,7 +542,7 @@
         },
         {
             "id": "oneplus-8series-9r-camera-unlocker",
-            "last_update": 1726019770000,
+            "last_update": 1732580285000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/archive/master.zip"
@@ -612,7 +612,7 @@
         },
         {
             "id": "Re-Malwack",
-            "last_update": 1732558984000,
+            "last_update": 1732584574000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
@@ -703,7 +703,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1732544076000,
+            "last_update": 1732580173000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
