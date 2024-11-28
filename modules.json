@@ -45,7 +45,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1732314326000,
+            "last_update": 1732782346000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -780,7 +780,7 @@
         },
         {
             "id": "wadbd",
-            "last_update": 1732468801000,
+            "last_update": 1732779231000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/archive/master.zip"
