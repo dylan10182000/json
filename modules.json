@@ -45,14 +45,14 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1733128743000,
+            "last_update": 1733445630000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1733216585000,
+            "last_update": 1733445507000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/master.zip"
@@ -444,7 +444,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1733219956000,
+            "last_update": 1733449780000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
@@ -479,7 +479,7 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1732852976000,
+            "last_update": 1733445736000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
@@ -780,7 +780,7 @@
         },
         {
             "id": "wadbd",
-            "last_update": 1733233974000,
+            "last_update": 1733445701000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/archive/master.zip"
