@@ -675,7 +675,7 @@
         },
         {
             "id": "sqlite3",
-            "last_update": 1730109981000,
+            "last_update": 1733592785000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
@@ -766,7 +766,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1733234006000,
+            "last_update": 1733592679000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
