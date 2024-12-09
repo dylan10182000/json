@@ -472,7 +472,7 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1732449585000,
+            "last_update": 1733745695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
@@ -612,7 +612,7 @@
         },
         {
             "id": "Re-Malwack",
-            "last_update": 1733658057000,
+            "last_update": 1733745601000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
@@ -675,7 +675,7 @@
         },
         {
             "id": "sqlite3",
-            "last_update": 1733592785000,
+            "last_update": 1733745427000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
