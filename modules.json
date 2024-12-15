@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1734110170000,
+            "last_update": 1734234533000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -276,7 +276,7 @@
         },
         {
             "id": "vr25.fbind",
-            "last_update": 1725610477000,
+            "last_update": 1734235040000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
@@ -290,7 +290,7 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1732785545000,
+            "last_update": 1734235049000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/master.zip"
@@ -388,7 +388,7 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1734023120000,
+            "last_update": 1734234560000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
@@ -416,14 +416,14 @@
         },
         {
             "id": "magisk-autoboot",
-            "last_update": 1731626910000,
+            "last_update": 1734234665000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/master.zip"
         },
         {
             "id": "magisk-captive-control",
-            "last_update": 1732349785000,
+            "last_update": 1734235058000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk-swapspace",
-            "last_update": 1733461376000,
+            "last_update": 1734234481000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/archive/master.zip"
@@ -451,7 +451,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1733370066000,
+            "last_update": 1734234755000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -486,14 +486,14 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1734095580000,
+            "last_update": 1734234643000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
         },
         {
             "id": "mkshrc",
-            "last_update": 1732450900000,
+            "last_update": 1734234552000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
@@ -528,7 +528,7 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1733481536000,
+            "last_update": 1734234687000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/master.zip"
@@ -654,7 +654,7 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1732543849000,
+            "last_update": 1734234795000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
@@ -766,21 +766,21 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1733592679000,
+            "last_update": 1734234502000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
         },
         {
             "id": "vintf-bypass",
-            "last_update": 1729806219000,
+            "last_update": 1734235072000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
         },
         {
             "id": "wadbd",
-            "last_update": 1733469826000,
+            "last_update": 1734234543000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/archive/master.zip"
@@ -829,7 +829,7 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1733758552000,
+            "last_update": 1734234817000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/master.zip"
