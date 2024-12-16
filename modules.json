@@ -654,7 +654,7 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1734234795000,
+            "last_update": 1734336271000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
@@ -808,7 +808,7 @@
         },
         {
             "id": "XtremeBS",
-            "last_update": 1734304734000,
+            "last_update": 1734334712000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/archive/master.zip"
