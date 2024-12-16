@@ -73,7 +73,7 @@
         },
         {
             "id": "BraviaEngine",
-            "last_update": 1733454620000,
+            "last_update": 1734375794000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/archive/master.zip"
@@ -717,7 +717,7 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1727473845000,
+            "last_update": 1734375244000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/master.zip"
@@ -766,7 +766,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1734368904000,
+            "last_update": 1734375700000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
@@ -780,7 +780,7 @@
         },
         {
             "id": "wadbd",
-            "last_update": 1734367348000,
+            "last_update": 1734375607000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/archive/master.zip"
@@ -801,7 +801,7 @@
         },
         {
             "id": "xmlpak-RE",
-            "last_update": 1733245271000,
+            "last_update": 1734375678000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/master.zip"
