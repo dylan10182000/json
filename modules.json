@@ -269,7 +269,7 @@
         },
         {
             "id": "faina",
-            "last_update": 1733707423000,
+            "last_update": 1734338862000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/faina/archive/master.zip"
@@ -647,7 +647,7 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1734259513000,
+            "last_update": 1734339076000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
