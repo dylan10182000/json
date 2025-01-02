@@ -458,7 +458,7 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1731462256000,
+            "last_update": 1735807024000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
