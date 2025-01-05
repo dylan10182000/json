@@ -52,7 +52,7 @@
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1735825960000,
+            "last_update": 1736055579000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/master.zip"
@@ -444,7 +444,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1735806132000,
+            "last_update": 1736056080000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/master.zip"
