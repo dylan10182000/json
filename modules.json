@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1736094540000,
+            "last_update": 1736194667000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1734102675000,
+            "last_update": 1736192199000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
