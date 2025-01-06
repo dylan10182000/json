@@ -192,14 +192,14 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1734062701000,
+            "last_update": 1736125554000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/master.zip"
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1729864436000,
+            "last_update": 1736125868000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/master.zip"
@@ -297,7 +297,7 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1734020758000,
+            "last_update": 1736125794000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/master.zip"
@@ -409,7 +409,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1736025645000,
+            "last_update": 1736125993000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/master.zip"
@@ -423,7 +423,7 @@
         },
         {
             "id": "magisk-captive-control",
-            "last_update": 1734235058000,
+            "last_update": 1736126574000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/archive/master.zip"
@@ -458,7 +458,7 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1735807024000,
+            "last_update": 1736125451000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/master.zip"
@@ -724,7 +724,7 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1735883006000,
+            "last_update": 1736125515000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
@@ -787,7 +787,7 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1735487725000,
+            "last_update": 1736125211000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
