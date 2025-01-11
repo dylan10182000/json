@@ -730,6 +730,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/master.zip"
         },
         {
+            "id": "tree",
+            "last_update": 1736595596000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/tree/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/tree/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/tree/archive/master.zip"
+        },
+        {
             "id": "trichromelibrary-squoosh",
             "last_update": 1725075292000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
@@ -780,7 +787,7 @@
         },
         {
             "id": "wadbd",
-            "last_update": 1736593942000,
+            "last_update": 1736594568000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/archive/master.zip"
@@ -819,6 +826,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/master.zip"
+        },
+        {
+            "id": "YetAnotherBootloopProtector",
+            "last_update": 1736596652000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/archive/master.zip"
         },
         {
             "id": "ytmusic_revancedinject",
