@@ -563,7 +563,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1736729437000,
+            "last_update": 1736755664000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -829,7 +829,7 @@
         },
         {
             "id": "YetAnotherBootloopProtector",
-            "last_update": 1736751917000,
+            "last_update": 1736754536000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/archive/master.zip"
