@@ -269,7 +269,7 @@
         },
         {
             "id": "faina",
-            "last_update": 1734338862000,
+            "last_update": 1737047941000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/faina/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/faina/archive/master.zip"
@@ -493,7 +493,7 @@
         },
         {
             "id": "mkshrc",
-            "last_update": 1736203463000,
+            "last_update": 1737051702000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
@@ -619,7 +619,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1736578063000,
+            "last_update": 1737051305000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/master.zip"
