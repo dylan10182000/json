@@ -171,7 +171,7 @@
         },
         {
             "id": "Custom-Certificate-Authorities",
-            "last_update": 1736886191000,
+            "last_update": 1737013600000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
@@ -486,7 +486,7 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1736688966000,
+            "last_update": 1737014931000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
@@ -563,7 +563,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1736930440000,
+            "last_update": 1737014780000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -612,7 +612,7 @@
         },
         {
             "id": "Re-Malwack",
-            "last_update": 1736978715000,
+            "last_update": 1737013562000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
@@ -773,7 +773,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1736930557000,
+            "last_update": 1737013768000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
