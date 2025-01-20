@@ -52,7 +52,7 @@
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1737127198000,
+            "last_update": 1737398370000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/master.zip"
@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1737380323000,
+            "last_update": 1737398167000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -164,7 +164,7 @@
         },
         {
             "id": "compatible-magisk-mirroring",
-            "last_update": 1736470653000,
+            "last_update": 1737398536000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk-swapspace",
-            "last_update": 1736681364000,
+            "last_update": 1737398392000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/archive/master.zip"
@@ -465,7 +465,7 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1737365840000,
+            "last_update": 1737398488000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/master.zip"
@@ -500,7 +500,7 @@
         },
         {
             "id": "NavBar_Resize",
-            "last_update": 1726634430000,
+            "last_update": 1737399776000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/archive/master.zip"
@@ -514,7 +514,7 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1735412432000,
+            "last_update": 1737399689000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
@@ -563,7 +563,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1737014780000,
+            "last_update": 1737398510000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -675,7 +675,7 @@
         },
         {
             "id": "sqlite3",
-            "last_update": 1733952068000,
+            "last_update": 1737398523000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
@@ -815,7 +815,7 @@
         },
         {
             "id": "XtremeBS",
-            "last_update": 1736912929000,
+            "last_update": 1737398328000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/archive/master.zip"
@@ -829,7 +829,7 @@
         },
         {
             "id": "YetAnotherBootloopProtector",
-            "last_update": 1737158749000,
+            "last_update": 1737398312000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/archive/master.zip"
