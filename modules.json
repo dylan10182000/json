@@ -234,7 +234,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1736080280000,
+            "last_update": 1737423542000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1737365498000,
+            "last_update": 1737420518000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
