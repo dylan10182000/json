@@ -766,14 +766,14 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1737136611000,
+            "last_update": 1737748581000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1737509084000,
+            "last_update": 1737749691000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
