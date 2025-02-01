@@ -612,7 +612,7 @@
         },
         {
             "id": "Re-Malwack",
-            "last_update": 1738213633000,
+            "last_update": 1738415457000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "systemless_adblocker",
-            "last_update": 1738345527000,
+            "last_update": 1738415501000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/master.zip"
