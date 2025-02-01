@@ -773,7 +773,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1737792566000,
+            "last_update": 1738418007000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
@@ -815,7 +815,7 @@
         },
         {
             "id": "XtremeBS",
-            "last_update": 1738259474000,
+            "last_update": 1738417593000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/archive/master.zip"
