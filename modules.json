@@ -514,7 +514,7 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1737399689000,
+            "last_update": 1738958601000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
@@ -773,7 +773,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1738794150000,
+            "last_update": 1738958529000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
