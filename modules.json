@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1739198788000,
+            "last_update": 1739257138000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
@@ -171,7 +171,7 @@
         },
         {
             "id": "Custom-Certificate-Authorities",
-            "last_update": 1738553152000,
+            "last_update": 1739256467000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
