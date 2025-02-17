@@ -703,7 +703,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1737342806000,
+            "last_update": 1739787107000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
@@ -780,7 +780,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1739742527000,
+            "last_update": 1739786800000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
@@ -822,7 +822,7 @@
         },
         {
             "id": "XtremeBS",
-            "last_update": 1739575410000,
+            "last_update": 1739786867000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/archive/master.zip"
