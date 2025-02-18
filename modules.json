@@ -80,7 +80,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1737376638000,
+            "last_update": 1739846387000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/master.zip"
@@ -122,7 +122,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1739822178000,
+            "last_update": 1739846282000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/master.zip"
