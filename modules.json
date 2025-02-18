@@ -45,14 +45,14 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1739271669000,
+            "last_update": 1739877785000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1739742490000,
+            "last_update": 1739877700000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/master.zip"
@@ -437,7 +437,7 @@
         },
         {
             "id": "magisk-swapspace",
-            "last_update": 1738312255000,
+            "last_update": 1739877728000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/archive/master.zip"
@@ -612,7 +612,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1738676533000,
+            "last_update": 1739877835000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/master.zip"
