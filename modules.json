@@ -451,7 +451,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1734234755000,
+            "last_update": 1740153390000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -703,7 +703,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1739787107000,
+            "last_update": 1740153279000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/master.zip"
