@@ -612,7 +612,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1739877835000,
+            "last_update": 1740415860000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/master.zip"
@@ -689,7 +689,7 @@
         },
         {
             "id": "supl-replacer",
-            "last_update": 1736038381000,
+            "last_update": 1740415866000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
