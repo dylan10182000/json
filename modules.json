@@ -563,7 +563,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1740468400000,
+            "last_update": 1740736935000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
@@ -773,7 +773,7 @@
         },
         {
             "id": "video-to-bootanimation",
-            "last_update": 1739875359000,
+            "last_update": 1740737960000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/master.zip"
