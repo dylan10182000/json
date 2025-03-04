@@ -52,7 +52,7 @@
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1740916421000,
+            "last_update": 1741081618000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/master.zip"
@@ -563,7 +563,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1741069251000,
+            "last_update": 1741083240000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
