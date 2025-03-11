@@ -220,7 +220,7 @@
         },
         {
             "id": "disable-low-ram",
-            "last_update": 1736972883000,
+            "last_update": 1741671163000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/archive/master.zip"
