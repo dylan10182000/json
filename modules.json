@@ -485,18 +485,18 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
-            "id": "MiXplorer",
-            "last_update": 1741276473000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/master.zip"
-        },
-        {
             "id": "mkshrc",
             "last_update": 1740058442000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
+        },
+        {
+            "id": "MiXplorer",
+            "last_update": 1741816878000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MobaXterm-Pro-License-Key/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MobaXterm-Pro-License-Key/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MobaXterm-Pro-License-Key/archive/master.zip"
         },
         {
             "id": "NavBar_Resize",
