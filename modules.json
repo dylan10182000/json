@@ -451,7 +451,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1741229356000,
+            "last_update": 1741858819000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
@@ -822,7 +822,7 @@
         },
         {
             "id": "YetAnotherBootloopProtector",
-            "last_update": 1741710171000,
+            "last_update": 1741858317000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/archive/master.zip"
