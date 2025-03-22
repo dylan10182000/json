@@ -3,7 +3,7 @@
     "modules": [
         {
             "id": "1_MARS_SOM_BASE-GEAR_FIRST",
-            "last_update": 1741047094000,
+            "last_update": 1742664689000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/archive/master.zip"
@@ -794,7 +794,7 @@
         },
         {
             "id": "xhhttp",
-            "last_update": 1741278637000,
+            "last_update": 1742664727000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
